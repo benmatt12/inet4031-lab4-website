@@ -1,16 +1,7 @@
 # INET4031 - Module 4 - Working with Remote Systems
 
-## Instructions, files, and code for Lab 4.
+## Files and code for Lab 4.
 
-What if you aren't nearby the computer you need to work on?
+This lab explores modifying a simple HTML webpage and how JavaScript can dynamically change an image.
 
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
-
-In this activity, we explore the concept of "servers."  Which typically aren't located where we are.
-
-We have to connect to them remotely
-
-This Lab explores that concept.
-
-
-
+JavaScript changes the src (source) attribute of an image to swap between two GIF files, demonstrating a simple example of interactive web behavior.
